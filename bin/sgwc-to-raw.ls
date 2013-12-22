@@ -21,5 +21,9 @@ fs.readFileSync cache_dir + '/' + json_filename
       coordinates: transform [d.TWD97TM2X, d.TWD97TM2Y]
     }
   })
+  |> (d) -> {
+    type: \FeatureCollection
+    features: d
+  }
   |> JSON.stringify
   |> fs.writeFileSync raw_dir + '/' + json_filename, _

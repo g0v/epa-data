@@ -12,6 +12,12 @@
     return proj(TWD97TM2, 'EPSG:4326', point);
   };
   fs.writeFileSync(raw_dir + '/' + json_filename, JSON.stringify(
+  function(d){
+    return {
+      type: 'FeatureCollection',
+      features: d
+    };
+  }(
   map(function(d){
     return {
       type: 'Feature',
@@ -23,5 +29,5 @@
     };
   })(
   JSON.parse(
-  fs.readFileSync(cache_dir + '/' + json_filename)))));
+  fs.readFileSync(cache_dir + '/' + json_filename))))));
 }).call(this);
