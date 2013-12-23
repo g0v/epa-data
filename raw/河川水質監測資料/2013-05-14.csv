@@ -1,0 +1,53 @@
+﻿SiteName,SiteEngName,County,Township,Basin,River,TWD97Lon,TWD97Lat,TWD97TM2X,TWD97TM2Y,SampleDate,ItemName,ItemEngName,ItemEngAbbreviation,ItemValue,ItemUnit
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,大腸桿菌群,"Coliform Group",Coliform,21000,CFU/100mL
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,溶氧飽和度,"Dissolved Oxygen Saturation",DOS,101.0,%
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,氯鹽,Chloride,Cl,-,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,氨氮,NH3-N,NH3-N,0.01,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,化學需氧量,"Chemical Oxygen Demand",COD,11.9,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,生化需氧量,"Biochemical Oxygen Demand",BOD5,1.1,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,溶氧(電極法),"Dissolved Oxygen",DO,8.0,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,懸浮固體,"Suspended Solid",SS,616,mg/L
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,氣溫,Temperature,TMP,28.9,℃
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,導電度,Conductivity,EC,492,μmho/cm25℃
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,酸鹼值,pH,pH,8.2,
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,水溫,"Water Temperature",WT,26.9,℃
+豐源大橋,"Fongyuanda Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0951980000,22.7234660000,,,2013-05-14,河川污染分類指標,"River Pollution Index",RPI,3.25,
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,大腸桿菌群,"Coliform Group",Coliform,190,CFU/100mL
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,溶氧飽和度,"Dissolved Oxygen Saturation",DOS,102.7,%
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,氯鹽,Chloride,Cl,-,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,氨氮,NH3-N,NH3-N,<0.01,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,化學需氧量,"Chemical Oxygen Demand",COD,<4.0,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,生化需氧量,"Biochemical Oxygen Demand",BOD5,<1.0,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,溶氧(電極法),"Dissolved Oxygen",DO,8.4,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,懸浮固體,"Suspended Solid",SS,7.8,mg/L
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,氣溫,Temperature,TMP,28.7,℃
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,導電度,Conductivity,EC,358,μmho/cm25℃
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,酸鹼值,pH,pH,8.4,
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,水溫,"Water Temperature",WT,24.3,℃
+新園橋(原為大南橋),"Danan Bridge",台東縣,,利嘉溪流域,利嘉溪,121.0492250000,22.7607920000,,,2013-05-14,河川污染分類指標,"River Pollution Index",RPI,1.00,
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,大腸桿菌群,"Coliform Group",Coliform,68000,CFU/100mL
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,溶氧飽和度,"Dissolved Oxygen Saturation",DOS,100.2,%
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,氯鹽,Chloride,Cl,-,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,氨氮,NH3-N,NH3-N,0.13,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,化學需氧量,"Chemical Oxygen Demand",COD,<4.0,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,生化需氧量,"Biochemical Oxygen Demand",BOD5,<1.0,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,溶氧(電極法),"Dissolved Oxygen",DO,8.0,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,懸浮固體,"Suspended Solid",SS,434,mg/L
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,氣溫,Temperature,TMP,30.6,℃
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,導電度,Conductivity,EC,409,μmho/cm25℃
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,酸鹼值,pH,pH,8.2,
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,水溫,"Water Temperature",WT,26.4,℃
+知本橋,"Jhihben Bridge",台東縣,,知本溪流域,知本溪,121.0396000000,22.7013960000,,,2013-05-14,河川污染分類指標,"River Pollution Index",RPI,3.25,
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,大腸桿菌群,"Coliform Group",Coliform,18000,CFU/100mL
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,溶氧飽和度,"Dissolved Oxygen Saturation",DOS,99.9,%
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,氯鹽,Chloride,Cl,-,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,氨氮,NH3-N,NH3-N,0.06,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,化學需氧量,"Chemical Oxygen Demand",COD,<4.0,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,生化需氧量,"Biochemical Oxygen Demand",BOD5,<1.0,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,溶氧(電極法),"Dissolved Oxygen",DO,8.0,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,懸浮固體,"Suspended Solid",SS,280,mg/L
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,氣溫,Temperature,TMP,29.8,℃
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,導電度,Conductivity,EC,406,μmho/cm25℃
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,酸鹼值,pH,pH,8.2,
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,水溫,"Water Temperature",WT,25.9,℃
+知本溫泉橋,"Jhihben hotspring Bridge",台東縣,,知本溪流域,知本溪,121.0218300000,22.6944600000,,,2013-05-14,河川污染分類指標,"River Pollution Index",RPI,3.25,
