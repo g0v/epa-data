@@ -2,8 +2,10 @@
 json_filename = \土壤及地下水污染管制區公告資料.json
 cache_dir = \cache
 raw_dir = \raw
+posland_url = \http://jimmyhub.net:9192/?address=
 
 fs = require \fs
+request = require \request
 { map, filter, join, keys, split, unique } = require \prelude-ls
 
 section = fs.readFileSync \raw/section.json |> JSON.parse
