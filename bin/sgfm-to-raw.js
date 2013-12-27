@@ -47,9 +47,12 @@ parseLandno = function(city, text){
       landno = landno.concat(map(fn$, split('、', result2[2])));
     }
   }
-  return unique(landno);
+  landno = unique(landno);
+  return map(function(n){
+    return split('|', n);
+  }, landno);
   function fn$(n){
-    return city + area + sec + n + '地號';
+    return join('|', [city, area, sec, n]);
   }
 };
 data = map(function(d){

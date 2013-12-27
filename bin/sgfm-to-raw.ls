@@ -33,8 +33,9 @@ parse-landno = (city, text) ->
     while ((result2 = pattern2.exec result[2]) != null)
       result2[0] #|> console.log
       (sec = result2[1]) #|> console.log
-      landno ++= map ((n) -> city + area + sec + n + '地號'), (split '、' result2[2])
-  unique landno
+      landno ++= map ((n) -> join \|, [city, area, sec, n]), (split '、' result2[2])
+  landno = unique landno
+  map ((n) -> split \|, n), landno
 
 data = fs.readFileSync \cache/ + json_filename
   |> JSON.parse
